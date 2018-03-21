@@ -1,2 +1,7 @@
 Test 1
 Komentarz
+
+
+
+test 2
+zmiana w pliku
