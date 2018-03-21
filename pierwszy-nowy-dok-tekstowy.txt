@@ -5,3 +5,8 @@ Komentarz
 
 test 2
 zmiana w pliku
+
+
+
+test 3
+trzecia zmiana w pliku
